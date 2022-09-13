@@ -1,0 +1,55 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="b(R?):#m97+;S7u?1ea`" x="78" y="-107"><statement name="HANDLER"><block type="controls_repeat_ext" id="zO?3|Zc,XpT^bfOkiD8}"><value name="TIMES"><shadow type="math_whole_number" id="|JbZ]I4~Xzt?;*C0cTs?"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="I~QF4T$$)JrkqD,t|Czq"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_pause" id="WmJm?FUJ!To7/c3(#E4P"><value name="pause"><shadow type="timePicker" id="]#0[lQeuc@pfzWrduk_M"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="d~:dS$R/VDIokQ|$k@sb"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="Me`DD%3`qXWwAev%+B(:"><value name="pause"><shadow type="timePicker" id="y%P8cNLsw|Kax@6$F-9U"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="W+Bw{-91AFLb$3QfZ+Na"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="yT}46KONxuMpK%i|)M4K"><value name="pause"><shadow type="timePicker" id="usT(ttQ%ZbE)$X`H@JrO"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="|8]3]-0eLF@Vp]ZS^F}|"><field name="LEDS">`
+        # . . . # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="{=#F_50V(X~kMH%1Wgzr"><value name="pause"><shadow type="timePicker" id="~DJ+O2[N:xjD7_voWa9v"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="Yss-E*_#C4F4D2N*v2V["><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="c`fW/WN8J{V7@)B=)30*"><value name="pause"><shadow type="timePicker" id="7ABOmkP~j/*_@^ylLtk+"><field name="ms">250</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement><next><block type="controls_repeat_ext" id="mz{IU8ACGjEcouY7Y3H0"><value name="TIMES"><shadow type="math_whole_number" id="Iyv#!`lGNHQa,%[rb~?w"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="O0S)0,(g.uAe/bLH{T#I"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="rpI(+[,MB/+3gp0m![d:"><value name="pause"><shadow type="timePicker" id=")4!g:W.S??(9gjpXMN={"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="j;?.6C_6?BELhD^!CPU/"><field name="LEDS">`
+        # . # . # 
+        . . # . . 
+        . . . . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="IG{CYN$S3[!Nd+{oC8B0"><value name="pause"><shadow type="timePicker" id="RN6j4Y^+xi2W^o{sNVlt"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="=I|yL)eQ/yXYmuxs{#Fo"><field name="LEDS">`
+        . # # # . 
+        . . . . . 
+        . . . . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="52;B+4k2;1ofNuA}qe1h"><value name="pause"><shadow type="timePicker" id="fhBuu|6l,gKmQA9b-/,w"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="/^u(`WAr?tuYDA3?5*[|"><field name="LEDS">`
+        # # # # # 
+        . . . . . 
+        . . . . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="f3FdXkNIbzF5~(Fi]jkj"><value name="pause"><shadow type="timePicker" id="TDfV#=d@-DS3]nMoFx)l"><field name="ms">250</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></next></block></statement></block></xml>
